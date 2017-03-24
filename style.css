@@ -1,0 +1,25 @@
+body {
+  background-color: rgb(14, 145, 50);
+}
+
+h1 {
+  color:rgb(46, 10, 136);
+}
+
+h2 {
+  color: rgb(46, 45, 61);
+}
+
+p {
+  color: rgb(32, 29, 88);
+}
+
+li {
+  color: rgb(17, 2, 36);
+}
+
+hr {
+  background-color: rgb(30,34,119) !important;
+  height: 2px !important;
+  border: 0px !important;
+}
